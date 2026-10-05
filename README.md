@@ -507,7 +507,7 @@
 ### 4. 乌龟加速 - IEPL 专线 + 超大不限时流量包 （近期暂时切直连线路）
 
 **官网入口**：
-- [乌龟加速官网](https://go.clashshome.com/wuguijiasu)，[备用地址](https://wgjiasu.com/#/login?code=NRNEFEMt)
+- [乌龟加速官网](https://go.clashshome.com/wuguijiasu)，[备用地址](https://wgjsq.monster/?code=NRNEFEMt)
 
 **优惠码**：`ABING888`（独家全场 8 折）
 
