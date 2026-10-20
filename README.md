@@ -344,7 +344,7 @@
 
 ---
 <span id="mitce"></span>
-### 1. Mitce - 住宅IP+Hysteria2协议（暂时不太好用，等官方通知恢复了再买）
+### 1. Mitce - 住宅IP+Hysteria2协议
 
 **官网入口**：
 - [Mitce官网](https://go.clashshome.com/mitcejc)，[备用地址](https://mitce.net/aff.php?aff=33445)
