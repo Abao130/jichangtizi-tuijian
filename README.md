@@ -336,7 +336,10 @@
 | 不限时200G | ¥45/一次性 | 总计200GB，用完为止 | 比两份100GB少5元 |
 | 独享定制 | ¥100/月起 | 按方案约定 | 独享住宅家宽双ISP，先工单沟通 |
 
-[查看飞喵云完整测评与选购建议](https://jichangclub.com/feimiaoyun-review/)
+<p align="center">
+  <img src="images/feimiaoyun.png" width="100%" alt="飞喵云节点测速图">
+</p>
+
 
 ---
 
