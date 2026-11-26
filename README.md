@@ -99,8 +99,6 @@
 | 高级-不限时 3000G | ¥388/一次性 | 1000Mbps | 永久有效 |  |
 | 豪华-不限时 6000G | ¥688/一次性 | 1000Mbps | 最多 20 台设备 |  |
 
-[点击查看红杏云测速](https://jichangtizi.com/zhulijichang/hongxingyun-review/)
-
 <p align="center">
   <img src="images/hongxingyun.png" width="100%" alt="红杏云机场梯子节点测试">
 </p>
@@ -153,8 +151,6 @@
 | 200G 极速版 | ¥26/月 | 200GB | 1Gbps | 日常主力推荐 |
 | 300G 尊享版 | ¥38/月 | 300GB | 1Gbps | 重度用户首选 |
 | 500G 旗舰版 | ¥55/月 | 500GB | 1Gbps | 顶级额度，视频下载无忧 |
-
-[点击查看特朗普云测速](https://jichangtizi.com/zhulijichang/trumpyun-review/)
 
 <p align="center">
   <img src="images/trumpyun.png" width="100%" alt="特朗普云机场梯子晚高峰测试">
@@ -216,8 +212,6 @@
 | 300G | ¥139 | 1000Mbps | 10台 |
 | 1000G | ¥269 | 1000Mbps | 10台 |
 
-[点击查看快雷GO测速](https://jichangtizi.com/rumen/kuaileigo-review/)
-
 <p align="center">
   <img src="images/kuaileigo1.png" width="100%" alt="快雷GO机场梯子专线节点测试">
 </p>
@@ -272,8 +266,6 @@
 | 豪华-月1200G | ¥118/月 | 1200GB/月 | 1000Mbps | 高强度使用；赠 EMBY |
 
 > 所有套餐均支持月付 · 季付 · 半年 · 年付 · 2年付 · 3年付，长期付款更划算。
-
-[点击查看糖果云测速](https://jichangtizi.com/zhulijichang/tangguoyun-review/)
 
 <p align="center">
   <img src="images/tangguoyun.png" width="100%" alt="糖果云机场梯子节点测试">
